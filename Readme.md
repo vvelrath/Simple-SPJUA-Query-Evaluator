@@ -1,7 +1,15 @@
 Simple SQL Query Evaluator 
 ==============================
 
-In this project, we will implement a simple SQL query evaluator with support for
+### Team members
+
+Vivekanandh Vel Rathinam (vvelrath@buffalo.edu)
+Amitha narasimha Murthy (amithana@buffalo.edu)
+Neeti Narayan (neetinar@buffalo.edu)
+
+### Description
+ 
+In this project, we implemented a simple SQL query evaluator with support for
 Select, Project, Join, Union, and Aggregate operations. That is, the code will receive a
 SQL file with a set of CREATE TABLE statements defining a schema for the data, and one
 or more SELECT statements. More precisely, this query Evaluator is expected to evaluate 
