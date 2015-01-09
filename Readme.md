@@ -46,7 +46,7 @@ Run this program use the following syntax:
 	$> cat query.sql
 	CREATE TABLE R(A int, B int)
 	SELECT B, C FROM R WHERE A = 1
-	$> java -cp build:jsqlparser.jar edu.buffalo.cse562.Main --data data query.sql
+	$> java -cp build:jsqlparser.jar edu.buffalo.cse562.Main --data data tpch_schemas.sql query.sql
 	1|5
 	2|6
 	
