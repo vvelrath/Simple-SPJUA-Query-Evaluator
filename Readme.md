@@ -4,7 +4,7 @@ Simple SQL Query Evaluator
 ### Team members
 
 Vivekanandh Vel Rathinam (vvelrath@buffalo.edu), 
-Amitha narasimha Murthy (amithana@buffalo.edu)
+Amitha Narasimha Murthy (amithana@buffalo.edu)
 Neeti Narayan (neetinar@buffalo.edu)
 
 ### Description
